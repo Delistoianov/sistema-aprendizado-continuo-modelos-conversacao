@@ -9,11 +9,14 @@ O mundo está em constante transformação e evolução, e esse contexto abrange
 Entretanto, a tarefa de manter as inteligências artificiais atualizadas ainda é um processo intrincado, para o qual ainda não existem soluções eficazes estabelecidas. Esses modelos armazenam conhecimento em seus parâmetros, porém, diante da constante evolução do mundo, esse conhecimento pode rapidamente se tornar obsoleto. Nessa perspectiva, o desafio substancial reside em como cultivar uma inteligência artificial capaz de discernir entre os dados permanentes, que são imutáveis com o tempo, os dados que precisam ser atualizados e os novos dados que surgem constantemente. Além disso, a habilidade de discernir a veracidade de novas informações também é fundamental.
 
 
+
 ## Solução Proposta
 
 ### Diagrama de Blocos
 
-![Diagrama de Blocos](link_para_o_diagrama.png)
+![Diagrama de Blocos](/assets/diagrama_bloco_%20sistema_conversacional.jpg)
+
+[Link para o miro](https://miro.com/app/board/uXjVNf0RyGY=/?share_link_id=637619826480)
 
 ### Descrição Textual
 
